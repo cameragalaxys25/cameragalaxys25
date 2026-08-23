@@ -1,5 +1,6 @@
 {
-  "conf_version":2,
+  "conf_version":15,
+  "ad_filter_sticker_interval_num":1,
   "ad_mix":{
     "ad_native_click_area_only_button_f":1,
     "ad_g_appid":0,
@@ -8,9 +9,14 @@
     "ads":[
       { 
         "ad_place":chaye3,
-        "ad_pid":ca-app-pub,
+        "ad_pid":0,
         "ad_source":admob,
-        "ad_type":interstitial},     
+        "ad_type":interstitial},    
+      { 
+        "ad_place":native,
+        "ad_pid":0,
+        "ad_source":admob,
+        "ad_type":native},    
       { 
         "ad_place":jl_video,
         "ad_pid":0,
@@ -23,14 +29,14 @@
         "ad_type":banner},
       { 
         "ad_place":chaye,
-        "ad_pid":ca-app-pub,
+        "ad_pid":0,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
         "ad_place":chaye2,
-        "ad_pid":ca-app-pub,
+        "ad_pid":0,
         "ad_source":admob,
-        "ad_type":interstitial},            
+        "ad_type":interstitial},         
       { 
         "ad_place":gallery_sel_pic,
         "ad_pid":0,
@@ -82,7 +88,7 @@
   "fb_pid_sticker":"0",
   "fb_pid_download_sticker":"0",
   "fb_show_interval_times":"1",
-  "transfer_s_pkgname":" ",
-  "transfer_t_pkgname":" ",
-  "transfer_msg":" "
+  "transfer_s_pkgname":"",
+  "transfer_t_pkgname":"com.strategyenigmaticnomad.enigmaticnomad",
+  "transfer_msg":"This app is outday with risk, please download the latest Camera for Galaxy S25: https://play.google.com/store/apps/details?id=com.strategyenigmaticnomad.enigmaticnomad"
 }
