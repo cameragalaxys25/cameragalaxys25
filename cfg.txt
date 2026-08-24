@@ -2,13 +2,13 @@
   "conf_version":2,
   "ad_mix":{
     "ad_native_click_area_only_button_f":1,
-    "ad_g_appid":ca-app-pub-3346851908196087~3345279723,
+    "ad_g_appid":,
     "ad_priority_source":fb,
     "ad_cache_f":1,
     "ads":[
       { 
         "ad_place":chaye3,
-        "ad_pid":ca-app-pub-3346851908196087/6068067754,
+        "ad_pid":,
         "ad_source":admob,
         "ad_type":interstitial},     
       { 
@@ -23,12 +23,12 @@
         "ad_type":banner},
       { 
         "ad_place":chaye,
-        "ad_pid":ca-app-pub-3346851908196087/2564600383,
+        "ad_pid":,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
         "ad_place":chaye2,
-        "ad_pid":ca-app-pub-3346851908196087/4392687373,
+        "ad_pid":,
         "ad_source":admob,
         "ad_type":interstitial},            
       { 
